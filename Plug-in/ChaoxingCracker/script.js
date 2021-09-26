@@ -8,8 +8,6 @@ function Caution()
 }
 Caution();
 
-
-
 function Prevent()
 {
     document.body.onmouseout = function(event)
